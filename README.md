@@ -20,4 +20,6 @@ pro-kit의 `tutorials/packs.json`에 적힌 주소에서 zip을 받아 sha256을
 | `claudle` | [Claude 같은 AI 대화 서비스 (튜토리얼)](https://github.com/roadkwon-ai/pro-kit/blob/main/tutorials/02-claudle/README.md) | [pack-claudle](https://github.com/roadkwon-ai/pro-kit-premium-packs/releases/tag/pack-claudle) | 1.0MB |
 | `olgot` | [올곧](https://roadkwon-ai.github.io/pro-kit/olgot/) | [pack-olgot](https://github.com/roadkwon-ai/pro-kit-premium-packs/releases/tag/pack-olgot) | 29.9MB |
 
+| `speaker-portfolio` | [스피커 포트폴리오](https://roadkwon-ai.github.io/pro-kit/speaker-portfolio/) | [pack-speaker-portfolio](https://github.com/roadkwon-ai/pro-kit-premium-packs/releases/tag/pack-speaker-portfolio) | 11.7MB |
+
 프리셋은 [프로킷 사이트](https://prokit-web.vercel.app/)에서 볼 수 있어요. 팩마다 릴리스는 최신판 하나뿐이고, 팩을 바꾸면 같은 이름으로 다시 올려요. 올리는 절차는 pro-kit의 `AGENTS.md`에 있어요.
